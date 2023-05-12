@@ -18,5 +18,5 @@ appDiv.innerHTML = `<h1>Ejemplo de funciones/h1>`;
 function retornaLaMitad(parametro) {
   return resultado;
 }
-
+//algo
 //console.log(retornaLaMitad(100));
